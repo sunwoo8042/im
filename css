@@ -1,0 +1,18 @@
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 10vh; /* 화면 세로 전체 높이로 설정 */
+        background-color: #519e63; /* 배경색 추가 */
+    }
+    img {
+        max-width: 50%;
+        max-height: 50%;
+    }
+</style>
+<body>
+    <img src="images.jpg" alt="사진 설명">
+</body>
